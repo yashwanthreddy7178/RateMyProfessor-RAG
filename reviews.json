@@ -1,0 +1,124 @@
+{
+  "reviews": [
+      {
+          "professor": "Chris Anderson",
+          "subject": "History",
+          "stars": 4,
+          "review": "Engaging lectures with a lot of historical insights."
+      },
+      {
+          "professor": "Robert Harris",
+          "subject": "Math",
+          "stars": 5,
+          "review": "Excellent at explaining complex concepts in simple terms."
+      },
+      {
+          "professor": "James Brown",
+          "subject": "History",
+          "stars": 3,
+          "review": "Good content but sometimes hard to follow."
+      },
+      {
+          "professor": "Susan Smith",
+          "subject": "Physics",
+          "stars": 4,
+          "review": "Very knowledgeable and approachable."
+      },
+      {
+          "professor": "Charles Taylor",
+          "subject": "Physics",
+          "stars": 2,
+          "review": "Struggles to keep the class engaged."
+      },
+      {
+          "professor": "Linda Thomas",
+          "subject": "Literature",
+          "stars": 4,
+          "review": "Passionate about the subject and inspires students."
+      },
+      {
+          "professor": "Patricia Garcia",
+          "subject": "Physics",
+          "stars": 3,
+          "review": "Good explanations but assignments are tough."
+      },
+      {
+          "professor": "Sarah Thompson",
+          "subject": "Physics",
+          "stars": 1,
+          "review": "Difficult to understand and not very helpful."
+      },
+      {
+          "professor": "Robert Moore",
+          "subject": "Biology",
+          "stars": 5,
+          "review": "Makes biology fascinating and fun."
+      },
+      {
+          "professor": "Jane Jones",
+          "subject": "Biology",
+          "stars": 0,
+          "review": "Unorganized and often late to class."
+      },
+      {
+          "professor": "Emily Martin",
+          "subject": "History",
+          "stars": 2,
+          "review": "Lectures lack depth and engagement."
+      },
+      {
+          "professor": "Jane Taylor",
+          "subject": "Chemistry",
+          "stars": 4,
+          "review": "Clear explanations and helpful office hours."
+      },
+      {
+          "professor": "Sarah Jones",
+          "subject": "History",
+          "stars": 4,
+          "review": "Provides great resources and support."
+      },
+      {
+          "professor": "Michael Martin",
+          "subject": "Biology",
+          "stars": 1,
+          "review": "Content is interesting but poorly delivered."
+      },
+      {
+          "professor": "Chris Taylor",
+          "subject": "Biology",
+          "stars": 4,
+          "review": "Interactive classes with practical examples."
+      },
+      {
+          "professor": "James Clark",
+          "subject": "Chemistry",
+          "stars": 2,
+          "review": "Material is challenging and not well explained."
+      },
+      {
+          "professor": "Patricia Williams",
+          "subject": "Literature",
+          "stars": 3,
+          "review": "Interesting discussions but grading is tough."
+      },
+      {
+          "professor": "Laura Thomas",
+          "subject": "Biology",
+          "stars": 4,
+          "review": "Supportive and always willing to help."
+      },
+      {
+          "professor": "Chris Jones",
+          "subject": "History",
+          "stars": 4,
+          "review": "Encourages critical thinking and debate."
+      },
+      {
+          "professor": "Alex Martinez",
+          "subject": "Biology",
+          "stars": 0,
+          "review": "Does not provide enough feedback on assignments."
+      }
+  ]
+}
